@@ -1,5 +1,9 @@
 # Handwritten Digits Augmentation, Augmented digit Sequence Generator for classification using MNIST dataset
 
+### Show your support
+
+Give a ⭐ if this project was helpful in any way!
+
 ## Purpose
 
 The goal of this project is to generate images representing sequences of numbers, for data augmentation purposes.
@@ -166,5 +170,6 @@ The file name specifies the labels of the image sequence within
 - `aug_gen_data` - also contain compressed numpy array for loading/reuse 
 - `keras_hor_images` - also contain compressed numpy array for loading/reuse 
 
-
+### Show your support
+Give a ⭐ if this project was helpful in any way!
 
